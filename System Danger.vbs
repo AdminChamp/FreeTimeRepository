@@ -1,0 +1,1 @@
+x=msgbox("Warning! Windows has detected virus infection! Somebody is trying to get access to your system files and steal your passwords! Prevent Identity theft and remove viruses now (highly recommended).", 4+16, "System Danger")
